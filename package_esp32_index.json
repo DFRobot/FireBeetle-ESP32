@@ -5,7 +5,7 @@
       "help": {
         "online": "http://esp32.com"
       }, 
-      "websiteURL": "https://github.com/espressif/esp32-arduino", 
+      "websiteURL": "https://github.com/espressif/arduino-esp32", 
       "platforms": [
 		{
           "category": "ESP32", 
